@@ -33,17 +33,17 @@ I am *Abhishek kumar* 👾 , currently pursuing Bachelor of Technology in Comput
 - 🌱 I’m currently learning Angular JS💡
 - 👯 I’m looking to collaborate on MERN Stack projects⭐️ 
 - 💬 Ask me about ```React JS```and ```DSA```
-- 📫 Drop a mail: [abhishek022kk@gmail.com](abhishek022kk@gmail.com)
+- 📫 Drop a mail: [amangoel9873572693@gmail.com](amangoel9873572693@gmail.com)
 - ⚡ Fun fact: Take me for a ***chai*** break✨ 
 - 🌍 I'm mostly active on [LinkedIn](https://www.linkedin.com/in/abhishek0810/)
 
 <br>
 <p align="center">
 <b>Connect me here</b><br><br>
-<a href="https://www.codechef.com/users/abhishek022kk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhishek022kk" height="41" width="51" /></a>  &nbsp;&nbsp;
-<a href="https://www.hackerrank.com/@abhishek022kk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@abhishek022kk" height="41" width="51" /></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/ashesvenom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ashesvenom" height="41" width="51" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/abhishek022kk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abhishek022kk" height="41" width="51" /></a>
+<a href="https://www.codechef.com/users/aman_goel987" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhishek022kk" height="41" width="51" /></a>  &nbsp;&nbsp;
+<a href="https://www.hackerrank.com/amangoel9873572" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@abhishek022kk" height="41" width="51" /></a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/amangoel9873572693" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ashesvenom" height="41" width="51" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/Amangoel123/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abhishek022kk" height="41" width="51" /></a>
 </p>  
 
 <p align="center">
