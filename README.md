@@ -47,5 +47,5 @@ I am *Abhishek kumar* 👾 , currently pursuing Bachelor of Technology in Comput
 </p>  
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=abhishekkumar08">  
+<img src="https://activity-graph.herokuapp.com/graph?username=goel-aman">  
 </p>
