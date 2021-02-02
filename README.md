@@ -1,13 +1,5 @@
 ### Hi there, people call me by the name aman. 👋
 
-- 🔭 I’m currently working on Source Sound Seperation.
-- 🌱 I’m currently learning sound processing , NodeJs etc.
-- 👯 I’m looking to collaborate on Machine Learning projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Angular , Data Science, ... etc.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hola, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
 
