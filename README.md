@@ -5,7 +5,7 @@
 
 <h3 align="center"><i><b> 🌈On a beautiful journey of becoming a full stack developer☄️</b></i></h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/abhishek0810/"><img src="https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek0810/"></a>
+<a href="https://www.linkedin.com/in/aman-goel-a999a4198/"><img src="https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-goel-a999a4198/"></a>
 <a href="https://github.com/abhishekkumar08"><img src="https://img.shields.io/github/followers/abhishekkumar08?label=follow&style=social"></a>
 <img src="https://gpvc.arturio.dev/abhishekkumar08">
 <a href="https://github.com/abhishekkumar08"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-Abhishek-orange"></a>
@@ -23,11 +23,11 @@ I am *Abhishek kumar* 👾 , currently pursuing Bachelor of Technology in Comput
 - 🔭 I’m currently working on **CodeIN** a site where we can get all the info regarding coding contest.<img src="https://ayfaatechnology.com/wp-content/themes/ayfaa-theme/ayfaa/images/home.gif" width="50">
  
 - 🌱 I’m currently learning Angular JS💡
-- 👯 I’m looking to collaborate on MERN Stack projects⭐️ 
-- 💬 Ask me about ```React JS```and ```DSA```
+- 👯 I’m looking to collaborate on Data Science, Machine Learning , MEAN Stack projects⭐️ 
+- 💬 Ask me about ```Angular , Data Science, Machine Learning ```and ```DSA```
 - 📫 Drop a mail: [amangoel9873572693@gmail.com](amangoel9873572693@gmail.com)
 - ⚡ Fun fact: Take me for a ***chai*** break✨ 
-- 🌍 I'm mostly active on [LinkedIn](https://www.linkedin.com/in/abhishek0810/)
+- 🌍 I'm mostly active on [LinkedIn](https://www.linkedin.com/in/aman-goel-a999a4198/)
 
 <br>
 <p align="center">
