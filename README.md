@@ -3,12 +3,12 @@
 <h3 align="center"><i><b> 🌈On a beautiful journey of becoming a full stack developer☄️</b></i></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aman-goel-a999a4198/"><img src="https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-goel-a999a4198/"></a>
-<a href="https://github.com/abhishekkumar08"><img src="https://img.shields.io/github/followers/abhishekkumar08?label=follow&style=social"></a>
-<img src="https://gpvc.arturio.dev/abhishekkumar08">
-<a href="https://github.com/abhishekkumar08"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-Abhishek-orange"></a>
+<a href="https://github.com/goel-aman"><img src="https://img.shields.io/github/followers/abhishekkumar08?label=follow&style=social"></a>
+<img src="https://gpvc.arturio.dev/goel-aman">
+<a href="https://github.com/goel-aman"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-Aman-orange"></a>
 </p>
 
-I am *Abhishek kumar* 👾 , currently pursuing Bachelor of Technology in Computer Science from Bakhtiyarpur College Of Engineering, Patna.  I am an intermediate developer skilled in C++, Python, Full Stack Development, Javascript and its frameworks❄️. I'm currently focusing on Machine learning📊. I actively participate in competitive coding contests on leetcode, codechef and codeforces <img src="https://www.georgiancollege.ca/wp-content/uploads/lightbulb.gif" width="30">
+I am *Aman Goel* 👾 , currently pursuing Bachelor of Technology in Computer Science from Vellore Institute Of Technology, Vellore.  I am an intermediate developer skilled in C++, Python, Full Stack Development, Javascript and its frameworks❄️. I'm currently focusing on Machine learning📊. I actively participate in competitive coding contests on leetcode, codechef and codeforces <img src="https://www.georgiancollege.ca/wp-content/uploads/lightbulb.gif" width="30">
 
 
 <img align='right' src="https://thumbs.gfycat.com/EvilNextDevilfish-size_restricted.gif" width="400">
