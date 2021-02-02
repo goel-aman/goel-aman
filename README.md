@@ -1,6 +1,3 @@
-### Hi there, people call me by the name aman. 👋
-
-
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hola, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
 
 <h3 align="center"><i><b> 🌈On a beautiful journey of becoming a full stack developer☄️</b></i></h3>
