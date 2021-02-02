@@ -23,7 +23,7 @@ I am *Aman Goel* 👾 , currently pursuing Bachelor of Technology in Computer Sc
 - 👯 I’m looking to collaborate on Data Science, Machine Learning , MEAN Stack projects⭐️ 
 - 💬 Ask me about ```Angular , Data Science, Machine Learning ```and ```DSA```
 - 📫 Drop a mail: [amangoel9873572693@gmail.com](amangoel9873572693@gmail.com)
-- ⚡ Fun fact: Take me for a ***chai*** break✨ 
+- ⚡ Fun fact: Take me for a ***pizza or coffee :) *** break✨ 
 - 🌍 I'm mostly active on [LinkedIn](https://www.linkedin.com/in/aman-goel-a999a4198/)
 
 <br>
