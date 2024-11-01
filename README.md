@@ -1,17 +1,16 @@
-<h1>Aman Goel - iOS Developer</h1>
+# 👋 Aman Goel - iOS Developer
 
-<p>
-  I am Aman Goel, a dedicated iOS Developer with 2 years and 6 months of hands-on experience in building and scaling iOS applications. I have contributed to high-impact products like <strong>Ivanti Go</strong> and <strong>Ivanti Mobile@Work</strong>, which serve millions of users globally.
-</p>
+**Experience**: 2 years 9 months in iOS development
 
-<p>
-  Currently, I am the sole iOS developer for the <strong>Vesta Elder Care</strong> and <strong>Vesta Partner</strong> applications, leveraging my expertise in Swift, Concurrency, Multithreading, and MVVM/MVC design patterns. My technical skills extend to C++, Python, Data Science, and Machine Learning.
-</p>
+### About Me
+I am a dedicated iOS Developer with hands-on experience building high-impact applications across large tech firms and startups. Skilled in Swift, Concurrency, Multithreading, MVVM, MVC, SOLID principles, and more, I have developed and optimized products like Ivanti Go, Mobile@Work, Vesta Elder Care, and MediaMelon's SmartSight SDK.
 
-<p>
-  I have a proven track record of delivering high-quality, scalable applications, and my efforts have been recognized with the <strong>Team Excellence Award</strong> at Ivanti for timely delivery and significant bug reduction.
-</p>
+### Highlights
+- **Ivanti**: Helped achieve the Team Excellence Award for on-time delivery and bug reduction.
+- **Vesta**: Sole developer, implementing deep linking, lab test booking, and e-commerce.
+- **MediaMelon**: Optimized SDK by reducing customer-facing APIs by 50% and created an OTT app for SDK testing.
 
-<p>
-  With a deep understanding of iOS development, I am well-equipped to drive success in any iOS development team.
-</p>
+**Technical Skills**: Swift, GCD, Cocoa Touch, C++, Python, Java, Data Science, Machine Learning
+
+### GitHub Repositories
+Check out my repos for code samples and projects showcasing my development journey.
